@@ -1,5 +1,7 @@
 # OTel Python Lab
 
+This is forked from avillela/otel-python-lab
+
 This is the companion repo for Module 6 of the O'Reilly Observability Fundamentals video course.
 
 ## References
